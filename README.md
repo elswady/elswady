@@ -1,7 +1,7 @@
 # 💫About Me:
 - 👋 I’m Mohamed Elswady.
 - 👀 I’m interested in Programming, specifically web development.
-- 🌱 I’m currently learning Front-end development using the React framework.
+- 🌱 I’m currently learning Front-end development using the Angular framework.
 - 💞️ I’m looking to collaborate on open-sourcs projects and securing job opportunities.
 - 📫 How to reach me [Email me](mailto:moelswady99@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohmed-elswady-b05107324/).
 - 😄 Pronouns: He/Him
